@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(34,34,34);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+header{
+    color: aliceblue;
+    text-align: center;
+}
+
+section{
+    background-color: rgb(127, 180, 67);
+    border-radius: 15px 0px;
+    padding: 10px;
+    width: 700px;
+    height: 360px;
+    margin: auto;
+    box-shadow: 2px 4px 5px rgb(94, 202, 44);
+}
+
+#msg{
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div{
+    text-align: center;
+    padding: 10px;
+    
+}
+
+footer{
+    color:aliceblue;
+    text-align: center;
+    font-style: italic;
+}
+
+#imagem{
+    
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
